@@ -88,4 +88,27 @@ This project is a Python-based password generator application that creates stron
    ```bash
    python password_generator.py
 
+## Contact Manager
+
+This is a simple Contact Management System built using Python and Tkinter. The application allows users to add, view, update, delete, and search contacts. The user interface is designed with a pink theme for a pleasant visual experience.
+
+## Features
+
+Add Contact: Allows users to add new contacts with details such as store name, phone number, email, and address.
+View Contact: Displays the details of the selected contact.
+Update Contact: Enables users to update the details of an existing contact.
+Delete Contact: Provides an option to delete a selected contact.
+Search Contact: Implements a search function to find contacts by name or phone number.
+User Interface: Designed with a pink theme for easy and pleasant interaction.
+
+## Installation
+
+Ensure you have Python installed on your system. You can download it from python.org.
+Clone or download this repository to your local machine.
+
+## Usage
+
+Navigate to the directory where you have saved the script.
+Run the script using Python:
+python contact_list.py
 
