@@ -47,7 +47,7 @@ class TestRockPaperScissors(unittest.TestCase):
         captured_output = StringIO()
         sys.stdout = captured_output
 
-        from main import play_round, main
+        from Rock_Paper_Scissor.main import play_round, main
         result = play_round()
 
         sys.stdout = sys.__stdout__

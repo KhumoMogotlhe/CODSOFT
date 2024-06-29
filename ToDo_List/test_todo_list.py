@@ -1,6 +1,6 @@
 
 import unittest
-from todo_list import add_task, remove_task, update_task, mark_task_complete, list_tasks
+from ToDo_List.todo_list import add_task, remove_task, update_task, mark_task_complete, list_tasks
 
 class TestToDoList(unittest.TestCase):
 

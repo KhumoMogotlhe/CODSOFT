@@ -1,6 +1,6 @@
 import unittest
 from tkinter import Tk
-from contact_manager import add_contact, view_contact, update_contact, delete_contact, search_contact, contacts, update_contact_listbox
+from Contact_Manager.contact_manager import add_contact, view_contact, update_contact, delete_contact, search_contact, contacts, update_contact_listbox
 
 class TestContactManager(unittest.TestCase):
 

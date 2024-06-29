@@ -2,7 +2,7 @@
 
 import unittest
 from unittest.mock import MagicMock, patch
-from todo_gui import add_task, remove_task, complete_task, update_tasks
+from ToDo_List.todo_gui import add_task, remove_task, complete_task, update_tasks
 
 class TestToDoGUI(unittest.TestCase):
 
