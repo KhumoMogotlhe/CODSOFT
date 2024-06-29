@@ -120,3 +120,51 @@ Run the script using Python:
 
 python contact_list.py
 
+# Rock, Paper, Scissors Game
+
+A simple command-line game of Rock, Paper, Scissors where the user plays against the computer.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Game Rules](#game-rules)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your_username/rock-paper-scissors.git
+
+ Navigate to the project directory:
+
+cd rock-paper-scissors
+
+Run the game:
+
+python rock_paper_scissors.py
+
+## Usage
+Upon running the game, you will be prompted to enter your choice of 'rock', 'paper', or 'scissors'.
+The computer will randomly select its choice.
+The winner (user or computer) will be determined based on the game rules.
+
+## Game Rules
+
+Rock crushes Scissors
+Scissors cuts Paper
+Paper covers Rock
+If both choices are the same, it's a tie
+
+## Contributing
+Fork the repository.
+Create your feature branch (git checkout -b feature/YourFeature).
+Commit your changes (git commit -am 'Add some feature').
+Push to the branch (git push origin feature/YourFeature).
+Create a new Pull Request.
+
+
+
